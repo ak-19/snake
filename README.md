@@ -1,5 +1,5 @@
 # snake
-Snake game with Pygame
+Snake game made with Pygame
 ## Instructions:
 - Create virtaul env with:
 
